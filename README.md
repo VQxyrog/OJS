@@ -1,16 +1,12 @@
-Deface OJS Ajax getInterests Auto Exploit
-Extract file css and js from url page
-
-![1](https://user-images.githubusercontent.com/82809095/118361180-57fef700-b5b4-11eb-94fa-c65a35e96af9.jpg)
-
-
-
 ##
 ### :octocat: Hi, thanks for spending your time visiting this repository !
-<p>
-This is Program To Invalid Headers set for content Type JSON Data
+
+<p>                                                                              This is Program To Invalid Headers set for content Type JSON Data
+Deface OJS Ajax getInterests Auto Exploit
+Extract file css and js from url page.
 </p>
 
+![1](https://user-images.githubusercontent.com/82809095/118361180-57fef700-b5b4-11eb-94fa-c65a35e96af9.jpg)
 
 # Installation
 <details open>
@@ -18,7 +14,7 @@ This is Program To Invalid Headers set for content Type JSON Data
 
 
 - $ apt update && apt upgrade
-  
+
 
 - $ apt install php
 
@@ -38,10 +34,12 @@ This is Program To Invalid Headers set for content Type JSON Data
 
 ![2](https://user-images.githubusercontent.com/82809095/118361083-f474c980-b5b3-11eb-87cc-d6fff1211d0b.jpg)
 
-  
+
 
 -  To see the success or failure you can visit;
 
   Target.com/index.php/user/getlnterests
-  
+
   Target.com/index/php/path/user/getlnterests
+~
+~
