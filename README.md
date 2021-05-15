@@ -30,16 +30,16 @@ Extract file css and js from url page.
 - Open CMD / Terminal / Termux, type;
 
   cd C:\xampp/php
+
   cd C:\xampp\php>Website Target
 
 ![2](https://user-images.githubusercontent.com/82809095/118361083-f474c980-b5b3-11eb-87cc-d6fff1211d0b.jpg)
 
 
 
--  To see the success or failure you can visit;
+-  To see the success you can visit;
 
-  Target.com/index.php/user/getlnterests
+  Target/index.php/user/getlnterests
 
-  Target.com/index/php/path/user/getlnterests
-~
-~
+  Target/index/php/path/user/getlnterests
+
