@@ -1,5 +1,7 @@
-i# Deface OJS Ajax getInterests Auto Exploit
+Deface OJS Ajax getInterests Auto Exploit
 Extract file css and js from url page
+
+![1](https://user-images.githubusercontent.com/82809095/118361180-57fef700-b5b4-11eb-94fa-c65a35e96af9.jpg)
 
 
 
@@ -33,6 +35,9 @@ This is Program To Invalid Headers set for content Type JSON Data
 
   cd C:\xampp/php
   cd C:\xampp\php>Website Target
+
+![2](https://user-images.githubusercontent.com/82809095/118361083-f474c980-b5b3-11eb-87cc-d6fff1211d0b.jpg)
+
   
 
 -  To see the success or failure you can visit;
