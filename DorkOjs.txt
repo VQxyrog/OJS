@@ -1,0 +1,32 @@
+#Dork Terbaru OJS (open journal system) 2018-2019
+
+DATA HOSTED OJS "parent directory" site:id [SEARCH BING + GOOGLE]-💕
+OJS "parent directory" site:id [Search BING + GOOGLE]
+
+
+
+index of index.php/ojs/user/register "journal article"
+index of index.php/ojs/user/register "article"
+index of index.php/ojs/user/register "Site:?"
+index of parent directory journal article submission
+/files/journals/1/articles site:?
+/files/journals/?/articles site:?
+index.php/index/user/register
+index/user/register/                                                       user/register
+index of files OJS intitle:register
+"index of files" "OJS"
+"index of files" "journal article"
+/ojs/index.php/user/register
+/journal/index.php/user/register
+"journal" intext:register inurl:user/register site:.id
+OpenJournal register "parent directory site:id
+OpenJournal register "Index Of" site:id
+/files/journals/1/articles "articles" site:id
+/files/journals/1/articles "submission" site:id
+/files/journals/1/articles "register" site:id
+/submission/original/ "OJS"
+submission/original/ "OpenJournal"
+"parent directory" /files/journals/1/submission
+inurl:/user/register/ "e-journal"
+/files/journals/1/articles site:id [Search BING]
+index of parent directory journal article submission
